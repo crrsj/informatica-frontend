@@ -1,1 +1,1 @@
-Controle de estoque de uma farmacia feito com html,css,javascript
+Controle de estoque para produtos de informática feito com html,css,javascript
